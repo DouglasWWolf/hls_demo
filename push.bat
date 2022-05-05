@@ -1,5 +1,5 @@
 @echo off
-set project=printer
+set project=hls_demo
 git add %project%.gen
 git add %project%.hw
 git add %project%.ip_user_files
